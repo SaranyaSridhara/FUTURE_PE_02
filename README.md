@@ -30,6 +30,7 @@ Tools Used
 
 - ChatGPT
 - GitHub
+- Lovable ai
 
 ---
 
